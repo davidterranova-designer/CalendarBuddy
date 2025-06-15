@@ -10,7 +10,7 @@ An AI-powered calendar assistant that retrieves and announces upcoming events in
   - **Scheduled Announcements:** Runs at fixed times (9 AM for today, 6 PM for tomorrow).
   - **Event-Specific Reminders:** Checks every 15 minutes for events starting soon.
 - **Smart Filtering:** Includes relevant events while excluding those that have already started or been announced.
-- **Integration:** Works seamlessly with Keyboard Maestro (KM) and Stream Deck for automation.
+- **Voice-Only, No UI:** CalendarBuddy has no graphical user interface. All interaction is through voice—events are announced via text-to-speech (TTS) only.
 
 ## How It Works
 
